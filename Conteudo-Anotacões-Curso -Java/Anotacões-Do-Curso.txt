@@ -1,0 +1,21 @@
+Comando do GitHub Basico
+
+Git Bash é um terminal esxtendido para otmimizar o uso do Git.
+
+git clone " Meu Endereço Que Vou Clonar https:"
+
+cd  "Nome Do Local Da Pasta"
+
+git status "Verificar que esta tudo certo"
+
+Depois cria a pasta e criar arquivo.
+
+git status 
+
+git add .  "Adicionando o arquivos que agente fez"
+
+git commit -m "Inclusao  das anotações do curso de Git/GitHub "
+
+
+git push origin main "Enviando todos arquivo para nuvem do GitHub"
+ 
